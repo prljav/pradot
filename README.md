@@ -1,0 +1,2 @@
+# pradot
+Prljav discord bot
